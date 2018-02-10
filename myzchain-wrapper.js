@@ -8,6 +8,7 @@ module.exports = function () {
             method: 'GET',
             uri: 'https://api.zcha.in/v2/mainnet' + query,
             body: {},
+            headers: { "Access-Control-Allow-Origin": "*"},
             json: true // Automatically stringifies the body to JSON
         };
         return rp(options);
