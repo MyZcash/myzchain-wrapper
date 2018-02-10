@@ -1,6 +1,6 @@
 {
     "name": "myzchain-wrapper",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "zchain api that uses native request promises",
     "main": "index.js",
     "scripts": {},
