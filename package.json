@@ -12,14 +12,14 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/MyZCash/MyZChain-Wrapper.git"
+        "url": "git+https://github.com/MyZcash/myzcash-wrapper.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/glambeth/zchain-api/issues"
+        "url": "https://github.com/MyZcash/myzcash-wrapper/issues"
     },
-    "homepage": "https://github.com/glambeth/zchain-api#readme",
+    "homepage": "https://github.com/MyZcash/myzcash-wrapper#readme",
     "dependencies": {
         "querystring": "^0.2.0",
         "request": "^2.83.0",
