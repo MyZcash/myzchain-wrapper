@@ -1,0 +1,32 @@
+{
+    "name": "myzchain-wrapper",
+    "version": "0.0.1",
+    "description": "zchain api that uses native request promises",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [
+        "zcash",
+        "zchain",
+        "zec",
+        "api"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MyZCash/MyZChain-Wrapper.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/glambeth/zchain-api/issues"
+    },
+    "homepage": "https://github.com/glambeth/zchain-api#readme",
+    "dependencies": {
+        "querystring": "^0.2.0",
+        "request": "^2.83.0",
+        "request-promise": "^4.2.2"
+    },
+    "devDependencies": {
+        "mocha": "^3.0.2",
+        "chai": "^4.0.2"
+    }
+}
